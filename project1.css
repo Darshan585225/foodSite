@@ -1,0 +1,111 @@
+img{
+    height: 80px;
+    width: 80px;
+    border-radius: 3px;
+}
+.containe{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png');
+    height: 100%;
+    background-size: cover;
+}
+.h1{
+    color:white;
+    font-size: 70px;
+    font-weight: 300;
+    font-family: roboto;
+}
+.p{
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 200;
+    font-family: serif;
+}
+.bu{
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+.bu2{
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+.hh{
+    color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.wcu-section {
+    background-color: #f9fbfe;
+  }
+.ps{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.wcu-card{
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.img{
+    height: 90px;
+    width: 87px;
+}
+.wcu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+  }
+.wcu-card-description {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+  }
+  .thnxs{
+    color:#323f4b;
+    font-size: 70px;
+    font-weight: 300;
+    font-family: roboto;
+}
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-align: center;
+  }
+.expl{
+    border-radius: 17px;
+}  
+.expl-img{
+    border-radius: 16px
+}
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+.menu{
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+  }
